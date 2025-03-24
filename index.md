@@ -65,15 +65,15 @@ We welcome contributions from developers!
 1. Fork the repository  
 2. Clone your fork  
    ```bash
-   git clone https://github.com/your-username/CheckMate.git
+   git clone https://github.com/<KoketsoMangwale>/CheckMate.git
    cd CheckMate
 3. Create a feature branch
    ```bash
-   git checkout -b feature-new-task-view
+   git checkout -b edit-article-index-page-<KM>
 
 4. Make changes and commit
    ```bash
-   git commit -m "Added new task view"
+   git commit -m "Updated index.md with new content for GitHub Pages"
 
 5. Push to GitHub and create a pull request
 
