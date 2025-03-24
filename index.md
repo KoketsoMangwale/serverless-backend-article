@@ -65,8 +65,8 @@ We welcome contributions from developers!
 1. Fork the repository  
 2. Clone your fork  
    ```bash
-   git clone https://github.com/<KoketsoMangwale>/CheckMate.git
-   cd CheckMate
+   git clone https://github.com/<KoketsoMangwale>/serverless-backend-article.git
+   cd serverless-backend-article
 3. Create a feature branch
    ```bash
    git checkout -b edit-article-index-page-<KM>
