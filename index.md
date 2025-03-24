@@ -8,7 +8,7 @@ description: AI-powered task management for productivity and efficiency.
 CheckMate is a **smart, AI-powered task management app** designed to **boost productivity** and **streamline workflows** for individuals and teams. Whether you're tracking personal goals or managing complex projects, CheckMate helps you stay on top of your tasks with intelligent insights, real-time collaboration, and automated reminders.  
 
 ---
-
+![Alt text](images.jpeg)
 ## ✨ Features  
 
 ✔ **AI-Powered Prioritization** – Get task recommendations based on urgency and workload.  
