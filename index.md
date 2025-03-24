@@ -68,12 +68,12 @@ We welcome contributions from developers!
    git clone https://github.com/your-username/CheckMate.git
    cd CheckMate
 3. Create a feature branch
-  ```bash
-  git checkout -b feature-new-task-view
+   ```bash
+   git checkout -b feature-new-task-view
 
 4. Make changes and commit
-  ```bash
-  git commit -m "Added new task view"
+   ```bash
+   git commit -m "Added new task view"
 
 5. Push to GitHub and create a pull request
 
